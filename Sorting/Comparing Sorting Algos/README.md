@@ -1,6 +1,6 @@
 # Comparing Sorting Algos
 
-## In this program, we will compare Speed of sorting for:
+## We will compare speed of sorting of:
 
 ### * Quicksort Algorithm
 
@@ -8,7 +8,7 @@
 
 ### * Insertion Sort Algorithm
 
-The results were as follows:
+# Results
 
 <table>
   <tr>
