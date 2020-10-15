@@ -2,11 +2,11 @@
 
 ## In this program, we will compare Speed of sorting for:
 
-### Quicksort Algorithm
+### * Quicksort Algorithm
 
-### Bubble Sort Algorithm
+### * Bubble Sort Algorithm
 
-### Insertion Sort Algorithm
+### * Insertion Sort Algorithm
 
 The results were as follows:
 
